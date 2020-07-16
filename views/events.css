@@ -1,0 +1,12 @@
+* {
+  align-items: center;
+}
+h2 {
+  text-transform: capitalize;
+}
+.form {
+  text-align: center;
+  width: 80%;
+  
+  color: black;
+}

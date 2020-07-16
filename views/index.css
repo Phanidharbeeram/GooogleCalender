@@ -1,0 +1,35 @@
+* {
+  padding: 10px 0 10px 0;
+  text-align: center;
+  margin: 10px 0 10px 0;
+}
+
+a {
+  background: green;
+  color: white;
+  padding: 6px;
+}
+label {
+  text-transform: capitalize;
+}
+input[type="text"] {
+  width: 80%;
+  align-items: center;
+}
+#email {
+  width: 80%;
+  align-items: center;
+}
+input[type="submit"] {
+    background:#4267B2;
+    border:none;
+    padding: 10px;
+    color: whitesmoke;
+}
+span {
+    position: relative;
+    color: red;
+    margin: 10px 0 10px 0;
+    text-transform: capitalize;
+    top: 10px;
+}
